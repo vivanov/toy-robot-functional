@@ -1,0 +1,5 @@
+PLACE 0,1,North
+MOVE
+RIGHT
+PLACE 4,3,West
+REPORT
